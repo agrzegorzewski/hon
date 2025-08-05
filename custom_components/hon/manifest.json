@@ -2,12 +2,12 @@
   "domain": "hon",
   "name": "Haier hOn",
   "codeowners": [
-    "@Andre0512"
+    "@agrzegorzewski"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/Andre0512/hon/",
+  "documentation": "https://github.com/agrzegorzewski/hon/",
   "iot_class": "cloud_push",
-  "issue_tracker": "https://github.com/Andre0512/hon/issues",
+  "issue_tracker": "https://github.com/agrzegorzewski/hon/issues",
   "requirements": [
     "pyhOn==0.17.5"
   ],
